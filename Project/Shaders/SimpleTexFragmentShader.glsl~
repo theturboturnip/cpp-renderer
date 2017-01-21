@@ -1,0 +1,8 @@
+#version 330
+out vec3 color;
+in vec2 uv;
+uniform sampler2D SLightShadowMap;
+
+void main(){
+     color=texture(SLightShadowMap,uv).rgb;
+}

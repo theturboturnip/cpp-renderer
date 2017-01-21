@@ -1,0 +1,3 @@
+FragShader=SimpleFragmentShader
+VertShader=MatrixVertexShader
+inColor=0,1,0

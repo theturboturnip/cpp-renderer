@@ -1,0 +1,4 @@
+VertShader=ShadowMapVertexShader
+FragShader=ShadowMapFragmentShader
+DiffuseTint=1,0.9,0.9
+DiffuseTex=rock.png

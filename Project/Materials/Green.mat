@@ -1,0 +1,3 @@
+FragShader=VLitFragmentShader
+VertShader=VLitVertexShader
+inColor=0,1,0

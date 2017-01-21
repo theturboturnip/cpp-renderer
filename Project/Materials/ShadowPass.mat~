@@ -1,0 +1,2 @@
+VertShader=ShadowPassVert
+FragShader=ShadowPassFrag
